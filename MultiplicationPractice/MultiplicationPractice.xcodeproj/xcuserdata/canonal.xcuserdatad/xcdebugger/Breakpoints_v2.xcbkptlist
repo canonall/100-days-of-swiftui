@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9AA6E8E9-A85F-4A92-864F-3272C361EE96"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B497284F-D0A0-45AF-AEEF-AA087C117671"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MultiplicationPractice/Coordinators/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "navigateToGameScreen(questionCount:tableCount:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B497284F-D0A0-45AF-AEEF-AA087C117671 - e8c1ff95d79750b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MultiplicationPractice.AppCoordinator.navigateGameScreen() -&gt; ()"
+                  moduleName = "MultiplicationPractice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/canonal/Desktop/IOS/Swift/SwiftUi/MultiplicationPractice/MultiplicationPractice/Coordinators/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "308">
+               </Location>
+               <Location
+                  uuid = "B497284F-D0A0-45AF-AEEF-AA087C117671 - dcf2f4cd2d2641e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MultiplicationPractice.AppCoordinator.__preview__navigateGameScreen() -&gt; ()"
+                  moduleName = "AppCoordinator.1.preview-thunk.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/canonal/Desktop/IOS/Swift/SwiftUi/MultiplicationPractice/MultiplicationPractice/Coordinators/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "324">
+               </Location>
+               <Location
+                  uuid = "B497284F-D0A0-45AF-AEEF-AA087C117671 - f4b8f2022fbb31a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MultiplicationPractice.AppCoordinator.__preview__navigateGameScreen() -&gt; ()"
+                  moduleName = "AppCoordinator.5.preview-thunk.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/canonal/Desktop/IOS/Swift/SwiftUi/MultiplicationPractice/MultiplicationPractice/Coordinators/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "416">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
