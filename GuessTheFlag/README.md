@@ -1,5 +1,3 @@
 # GuessTheFlag
 
-As part of [100 days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) I followed the instructions and implemented truely simple game where user 
-can guess the flag. This learning project specifically represents [day 20-21-22](https://www.hackingwithswift.com/100/swiftui/2). Again, this is a 
-one small step for mankind, one giant leap for me.
+WeSplit app covers [day 20,21, and 22](https://www.hackingwithswift.com/100/swiftui/20) of 100 days of SwiftUI. The purpose of this project is to learn more about the colors and gradients while applying them to a simple game. While learning how to use colors, I added alerts and simple animations to the game.
