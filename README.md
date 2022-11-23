@@ -1,4 +1,4 @@
-# 100 Days of SwiftUI
+# 100 Days of SwiftUI 🚀
 
 The best way of learning is to get your hands dirty and write some code, right? With that mentality, I started [100 days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) in order to apply and enhance my knowledge in Swift and gain fundamental knowledge in SwiftUI. From the table below you can reach all the projects covered in this course in chronological order. In order words, starting from the first project to the last project you can observe my progress. First apps are quite small and basic, whereas through the end of the course projects get bigger and more comprehensive. With that being said, **_challenge_ projects cover all previously practiced topics. Thus, they are more broad and meaningful to check over.** Please keep in my that none of these projects are meant to look fancy and shiny. Therefore, they have a simple UI. Apart from that, the purpose of _technical_ projects is sometimes to understand how components work and sometimes to discover the capabilities of a component. Thus, they are small and don't serve a meaning purpose from an app perspective.
 
